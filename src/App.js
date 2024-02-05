@@ -28,7 +28,7 @@ const showAlert=(message,type)=>{
     document.body.style.backgroundColor='black'
     setMode('dark')
     showAlert  ("Dark mode is enable","success");
-    setbtncolor('dark');
+    setbtncolor('light');
     }
 
   const toggleMode4 = ()=>{
@@ -38,9 +38,6 @@ const showAlert=(message,type)=>{
 
     setbtncolor('warning');
     }
-
-
-
   const toggleMode1 = ()=>{
         setMode('light')
     document.body.style.backgroundColor='#E5E4E2'
@@ -51,9 +48,9 @@ const showAlert=(message,type)=>{
   
   const toggleMode2 = ()=>{
         setMode('light')
-    document.body.style.backgroundColor='#00cc00'
+    document.body.style.backgroundColor='#6af96a'
     showAlert  ("Green mode is enable","success");
-    setbtncolor('success');
+    setbtncolor('dark');
   }
   const toggleMode3 = ()=>{
         setMode('light')
