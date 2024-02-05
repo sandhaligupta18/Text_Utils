@@ -1,0 +1,54 @@
+.color1{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-style: none;
+  background: pink;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.color2{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-style: none;
+  background: green;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.color3{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-style: none;
+  background: yellow;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.color4{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-style: none;
+  background:blue;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.color5{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-style: none;
+  background: #797878;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.color6{
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  border-style: none;
+  background:black;
+  cursor: pointer;
+  margin-right: 5px;
+}
