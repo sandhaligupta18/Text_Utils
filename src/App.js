@@ -39,7 +39,7 @@ const showAlert=(message,type)=>{
     setbtncolor('warning');
     }
   const toggleMode1 = ()=>{
-        setMode('light')
+        setMode('dark')
     document.body.style.backgroundColor='#E5E4E2'
     showAlert  ("Danger mode is enable","success");
     setbtncolor('secondary')
